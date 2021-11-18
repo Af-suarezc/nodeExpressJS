@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "El chanfle",
+        "director": "Enrique Segoviano",
+        "year": "1979",
+        "rating":"6.6"
+    },
+    {
+        "id": 2,
+        "title": "Lone Wolf McQuade",
+        "director": "Steve Carver",
+        "year": "1983",
+        "rating":"6.4"
+    },
+    {
+        "id": 3,
+        "title": "Spiderman",
+        "director": "Sam Raimi",
+        "year": "2002",
+        "rating":"7.3"
+    },
+    {
+        "id": 4,
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "year": "2014",
+        "rating":"8.4"
+    }
+]
